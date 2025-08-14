@@ -1,0 +1,9 @@
+pre[class*="language-"],
+code[class*="language-"] {
+  background-color: #1e1e1ec6 !important;
+  color: #f8f8f2 !important;
+  border-radius: 6px;
+  padding: 1em;
+  display: block;
+  overflow-x: auto;
+}

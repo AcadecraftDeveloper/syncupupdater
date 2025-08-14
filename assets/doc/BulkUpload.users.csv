@@ -1,0 +1,9 @@
+firstName,lastName,phone,username,employeeID,email,password,isOrange,organization,department,designation,reportingManagerEmail,location
+Sandeep,Dubey,8750344156,san001,1,sandeep@acadecraft.net,test123,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+Raghav,Srivastav,8750344157,raghav002,2,raghav@acadecraft.net,test124,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+Suman,Mandal,8750344158,mandal003,3,suman.mandal@acadecraft.net,test125,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+Suman,Singh,8750344159,singh004,4,suman.singh@acadecraft.net,test126,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+danish,Saifai,8750344160,danish005,5,danish@acadecraft.net,test127,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+faizal,Ansari,8750344161,saif006,6,faizal@acadecraft.net,test128,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+himanshu,Kaushik,8750344162,him007,7,himanshu@acadecraft.net,test129,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi
+tahir,Hussain,8750344163,hushain008,8,tahir@acadecraft.net,test130,FALSE,123456,IT,Software Developer,sandeep@acadecraft.net,New Delhi

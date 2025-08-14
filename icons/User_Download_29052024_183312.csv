@@ -1,0 +1,8 @@
+First Name [Required],Last Name [Required],Email Address [Required],Status [READ ONLY],Last Sign In [READ ONLY],Email Usage [READ ONLY]
+Emily,Taylor,emily@talk2lead.com,Active,2024/04/03 07:34:03,0.02GB
+Grace,Anderson,grace@talk2lead.com,Active,2024/04/03 07:52:04,0.02GB
+James,Smith,james@talk2lead.com,Active,2024/03/31 07:12:05,0.03GB
+Jennifer,Davis,jennifer@talk2lead.com,Active,2024/03/31 07:36:03,0.01GB
+John,Smith,john@talk2lead.com,Suspended,2023/09/13 04:57:08,0.01GB
+Piyush,Prayal,piyush@talk2lead.com,Active,2024/05/26 21:21:44,0.03GB
+Talk,Lead,info@talk2lead.com,Active,2024/05/23 03:42:36,0.0GB
